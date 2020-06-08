@@ -87,7 +87,7 @@ unsigned int tabspaces = 8;
 /*
  * Color scheme
  */
-#include "colors.default.h"
+#include "colors.tj.h"
 
 /*
  * Default shape of cursor
